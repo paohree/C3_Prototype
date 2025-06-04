@@ -9,9 +9,9 @@ import SwiftUI
 
 @main
 struct C3_HIFIApp: App {
-    var body: some Scene {
-        WindowGroup {
-          ContentView()
-        }
+  var body: some Scene {
+    WindowGroup {
+      ContentView()
     }
+  }
 }
